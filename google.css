@@ -85,12 +85,14 @@ html, body{
     outline: none ;
   }
   
-  img.s-icon{
+  .s-icon{
     padding: 8px ;
     margin-left: 6px ;
     height: 24px;
     width: 24px ;
+    margin-top: 4px;
   }
+
   img.s-mic{
     padding: 8px ;
     margin-right: 6px ;
